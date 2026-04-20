@@ -40,4 +40,6 @@ To launch the Yatra Sarthi ecosystem locally:
 - **Dossier Dispatch**: Upon entering a valid email, the system simulates a secure dossier dispatch with a high-priority notification popup.
 
 ---
+
+####Database used POSTGRESQL has been removed from this as of now due to internal machine error. You can use it in your machine efficiently.
 *Created by Antigravity for the YATRA_SYSTEM.*
