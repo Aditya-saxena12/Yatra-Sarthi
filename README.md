@@ -41,5 +41,5 @@ To launch the Yatra Sarthi ecosystem locally:
 
 ---
 
-####Database used POSTGRESQL has been removed from this as of now due to internal machine error. You can use it in your machine efficiently.
+-->####Database used POSTGRESQL has been removed from this as of now due to internal machine error. You can use it in your machine efficiently.
 *Created by Antigravity for the YATRA_SYSTEM.*
